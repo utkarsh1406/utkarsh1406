@@ -15,8 +15,8 @@
 - 👯 I’m looking to collaborate on AI and Machine Learning Projects
 - 🤔 I’m looking for help to get started with R
 - 💬 Ask me about things related to DSA and ML
-- 📫 How to reach me: ...
-- 😄 Pronouns: Not pronouns yet 🤣
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Utkarsh_Pratap_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh-pratap-singh-204aa81b4/)](https://www.linkedin.com/in/utkarsh-pratap-singh-204aa81b4/)
+- 😄 Pronouns: No pronouns yet 🤣
 - ⚡ Fun fact: I need a push to initiate ..... (pun intended 🤣 )
 
 🛠**Tech Stack**
