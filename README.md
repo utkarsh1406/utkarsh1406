@@ -2,7 +2,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Utkarsh_Pratap_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarsh-pratap-singh-204aa81b4/)](https://www.linkedin.com/in/utkarsh-pratap-singh-204aa81b4/)
+[![Linkedin Badge](https://img.shields.io/badge/-Utkarsh_Pratap_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/utkarshp1406)](linkedin.com/in/utkarshp1406)
 [![Gmail Badge](https://img.shields.io/badge/-utkarsh.p1406@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utkarsh.p1406@gmail.com)](mailto:utkarsh.p1406@gmail.com) 
 
 **A Data Science and Tech Enthusiast ardour to keep on Learning new things.**
