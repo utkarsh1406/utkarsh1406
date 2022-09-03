@@ -7,23 +7,22 @@
 
 **A Data Science and Tech Enthusiast ardour to keep on Learning new things.**
 
-- - 🎯 Portfolio website: [My Portfolio](https://utkarsh1406.github.io/myportfolio.github.io/)
+-  🎯 Portfolio website: [My Portfolio](https://utkarsh1406.netlify.app/)
 
 - 💻 **Things I love**
-- 🔭 I’m currently working on DSA and Machine Learning skills
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Data Structures and Algorithms 
+- 🌱 I’m currently learning Machine Learning and Artificial Intellegence
 - 👯 I’m looking to collaborate on AI and Machine Learning Projects
 - 🤔 I’m looking for help to get started with R
-- 💬 Ask me about things related to DSA and ML
+- 💬 Ask me about things related to Data Scienec and Machine learning
 - 😄 Pronouns: No pronouns yet 🤣
 - ⚡ Fun fact: I need a push to initiate ..... (pun intended 🤣 )
 
-🛠**Tech Stack**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## 🛠**Technical Stack** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
 - Data Analysis ✍️
-- Data Science 😬
-- C/C++
+- Tableau <img src="https://user-images.githubusercontent.com/93066991/188284709-9bfb9b0d-4bf1-4b2d-bd6e-600b0fc7fb6a.png" width="20" height="20">
 
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -33,12 +32,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
+# 
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 
--->
 
 
 
